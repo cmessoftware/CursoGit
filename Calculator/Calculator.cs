@@ -7,7 +7,7 @@ public class Calculator : ICalculator
         throw new NotImplementedException();
     }
 
-    public double Add(double a, double y)
+    public double Add(double x, double y)
     {
         throw new NotImplementedException();
     }
