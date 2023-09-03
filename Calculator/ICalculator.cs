@@ -22,4 +22,9 @@ public interface ICalculator
 
      double AbsMod(double x, int module, int mod);
 
+     long Factorial(int n);
+
+     long Pow(int baseNum, int exp);
+     
+
 }

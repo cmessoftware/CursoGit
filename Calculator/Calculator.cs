@@ -32,12 +32,22 @@ public class Calculator : ICalculator
         throw new NotImplementedException();
     }
 
+    public long Factorial(int n)
+    {
+        throw new NotImplementedException();
+    }
+
     public double Mult(double x, double y)
     {
         throw new NotImplementedException();
     }
 
     public double MultMod(double x, double y, int mod)
+    {
+        throw new NotImplementedException();
+    }
+
+    public long Pow(int baseNum, int exp)
     {
         throw new NotImplementedException();
     }
