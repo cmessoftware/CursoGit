@@ -14,4 +14,12 @@ public interface ICalculator
 
      double Abs(double x, int module);
 
+     double AddMod(double a, double y, int mod);
+
+     double MultMod(double x, double y, int mod);
+
+     double DivMod(double x, double y, int mod);
+
+     double AbsMod(double x, int module, int mod);
+
 }
